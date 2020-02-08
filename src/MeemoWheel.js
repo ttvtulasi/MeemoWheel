@@ -2,9 +2,9 @@ import React, { Component } from 'react'
 import * as d3 from 'd3';
 class MeemoWheel extends Component {
     componentDidMount() {
-        this.drawBarChart();
+        this.drawWheel();
     }
-    drawBarChart(data) {
+    drawWheel(data) {
         var padding = { top: 20, right: 40, bottom: 0, left: 0 },
             w = 500 - padding.left - padding.right,
             h = 500 - padding.top - padding.bottom,
