@@ -25,7 +25,7 @@ class MeemoWheel extends Component {
             { "label": "Question 4", "value": 1, "question": "What CSS property is used for changing the boldness of text?" }, //font-weight
             { "label": "Question 5", "value": 1, "question": "What CSS property is used for changing the size of text?" }, //font-size
             { "label": "Question 6", "value": 1, "question": "What CSS property is used for changing the background color of a box?" }, //background-color
-            { "label": "Question 7", "value": 1, "question": "Which word is used for specifying an HTML tag that is inside another tag?" } //nesting
+            { "label": "Question 7", "value": 1, "question": "Which word is used for specifying an HTML tag that is inside another tag?" }, //nesting
             { "label": "Question 8", "value": 1, "question": "Which side of the box is the third number in: margin:1px 1px 1px 1px; ?" }, //bottom
             { "label": "Question 9", "value": 1, "question": "What are the fonts that don't have serifs at the ends of letters called?" }, //sans-serif
             { "label": "Question 10", "value": 1, "question": "With CSS selectors, what character prefix should one use to specify a class?" }, //period
